@@ -2,7 +2,7 @@
   "$id": "Turtlehead Tacos Answers",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
   "domainConfig": {
-    "hostName": "answers-hitchhiker-training.turtleheadtacos-$[businessId].com"
+    "hostName": "${{turtleheadTacosAnswers_hostName}}"
   },
   "features": [],
   "publishingConfig": {
@@ -14,8 +14,8 @@
     }
   },
   "repoConfig": {
-    "targetRepoName": "answers-hitchhiker-training.turtleheadtacos-$[businessId].com",
-    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-2486105.com"
+    "targetRepoName": "${{turtleheadTacosAnswers_targetRepo}}",
+    "templateRepo": "github.com/big-ol-sandbox/answers-hitchhiker-training.turtleheadtacos-2486470.com"
   },
   "siteName": "Turtlehead Tacos Answers"
 }

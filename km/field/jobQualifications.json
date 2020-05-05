@@ -8,12 +8,12 @@
   "type": {
     "richTextType": {
       "supportedFormat": [
+        "BOLD",
         "ITALICS",
-        "UNDERLINE",
-        "BULLETED_LIST",
         "HYPERLINK",
-        "NUMBERED_LIST",
-        "BOLD"
+        "BULLETED_LIST",
+        "UNDERLINE",
+        "NUMBERED_LIST"
       ]
     }
   },
